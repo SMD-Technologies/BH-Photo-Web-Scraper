@@ -1,2 +1,2 @@
-web: sh setup.sh && streamlit run Web_Scraper.py
+web: sh setup.sh && streamlit run BH_Photo_Web_Scraper.py
 

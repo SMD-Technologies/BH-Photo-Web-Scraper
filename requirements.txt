@@ -5,4 +5,8 @@ streamlit
 openpyxl
 xlrd
 XlsxWriter
-
+undetected_chromedriver
+bs4
+json
+base64
+io
